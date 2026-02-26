@@ -34,18 +34,22 @@ This project is built with scalability, performance, and maintainability in mind
 ---
 
 ##  Project Structure
--lib/
+lib/
 ├── models/
-│ └── article.dart
+│   └── article.dart            # News article data model
+│
 ├── providers/
-│ └── news_provider.dart
+│   └── news_provider.dart      # State management & API 
+│
 ├── screens/
-│ ├── welcome_screen.dart
-│ ├── home_screen.dart
-│ └── detail_screen.dart
+│   ├── welcome_screen.dart     # App entry / landing screen
+│   ├── home_screen.dart        # News hub with categories
+│   └── detail_screen.dart      # News detail access
+│
 ├── widgets/
-│ └── news_card.dart
-└── main.dart
+│   └── news_card.dart          # Reusable animated news card UI
+│
+└── main.dart                   # App entry point
 
 
 ---
