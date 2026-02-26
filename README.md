@@ -56,9 +56,7 @@ lib/
 
 ##  API Used
 
-- **NewsAPI.org** (or similar REST-based News API)
-
-> Note: API key is excluded from the repository for security reasons.
+- **NewsAPI.org** 
 
 ---
 
