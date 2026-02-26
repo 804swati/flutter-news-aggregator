@@ -2,7 +2,7 @@
 
 A modern, production-focused **Flutter News Aggregator application** that fetches real-time news from multiple categories and presents them with a clean, interactive UI.
 
-This project is built with scalability, performance, and maintainability in mind — reflecting real-world mobile app development practices.
+This project is built with scalability, performance, and maintainability in mind reflecting real-world mobile app development practices.
 
 ---
 
